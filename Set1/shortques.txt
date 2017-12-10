@@ -1,0 +1,540 @@
+﻿1. The position x of a particle varies with time (t) as $x = at^2 - bt^3$. The acceleration of particle will be zero at a time.
+a. $\dfrac{2a}{3b}$
+0         
+b. $\dfrac{a}{b}$
+0
+c. $\dfrac{a}{3b}$
+1
+d. $0$
+0
+2. A uniform chain of length 2 m is kept on a table such that a length of 60 cm hangs freely from the edge of the table. the total mass of chain is 4 kg then work done on pulling whole chain on table is
+a. 7.2 J          
+0
+b. 3.6 J
+1
+c. 1.2 J
+0
+d. 12 J
+0
+3. The equation of wave traveling in a string can be written as $y = 3 \cos \pi(100t - x)$. The wavelength wave is
+a. 100 cm          
+0
+b. 2 cm
+1
+c. 5 cm
+0
+d. $\pi$ cm
+0
+4. Two rods of different material of linear expansivities $\alpha_1$ and $\alpha_2$, Young's modulus $Y_1$ and $Y_2$ are fixed between two rigid massive wall. The rods are heated to same temperature and there is no bending on rod then stress will be equal if
+a. $\dfrac{Y_1}{Y_2} =  \dfrac{\alpha_1}{\alpha_2}$           
+0
+b. $\dfrac{Y_1}{Y_2}  = \dfrac{\alpha_2}{\alpha_1}$ 
+1
+c. $\dfrac{Y_1}{Y_2} =  \sqrt{\dfrac{\alpha_1}{\alpha_2}}$ 
+0
+d. $\dfrac{Y_1}{Y_2} =  \sqrt{\dfrac{\alpha_2}{\alpha_1}}$ 
+0
+5. An electrical refrigerator abstracts 2000 calories heat from ice trays. The coefficient of performances is 4 then work done by motor in calories is 
+a. 8000          
+0
+b. 2000
+0
+c. 4000
+0
+d. 500
+1
+6. When $1000$ drops of mercury of potential in each coalesce to form a single drop then potential of single drop will be
+a. $\dfrac{1}{1000}$ mV          
+0
+b. 1000 mV
+0
+c. 10 mV
+0
+d. 100 mV
+1
+7. A piece of copper is shaped into a conductor of minimum resistance. Its length and diameter should be
+a. l, d          
+0
+b. 2l, d
+0
+c. $\dfrac{l}{2}$, 2d
+1
+d. 2l, $\dfrac{d}{2}$ 
+0
+8. Air bubble in glass slab of $\mu$ 1.5 is found 6 cm from one side and 4 cm from other side. the thickness of slab is
+a. 10 cm           
+0
+b. 6.67 cm
+0
+c. 15 cm
+1
+d. 20 cm
+0
+9. The K.E. of a free electron is doubled, its de Broglie wavelength will be
+a. $\dfrac{1}{2}$           
+0
+b. 2
+0
+c. $\dfrac{1}{\sqrt{2}}$ 
+1
+d. 3
+0
+10. A transistor is connected in common emitter configuration. The collector supply is 8 V and voltage drop across resistor of 800 $\Omega$ in the collector is 0.5 V. The current gain is 0.96 then base current is
+a. 24 $\mu$A          
+0
+b. 25 $\mu$A
+0
+c. 26 $\mu$A
+1
+d. 27 $\mu$A
+0
+11. The system of homogenous equations 2 x - y + z = 0, x-2y+z = 0 and $\lambda$x - y + 2z = 0 has non-trivial solutions, for
+a. $\lambda$ = 0          
+0
+b. $\lambda$ = 5
+0
+c. $\lambda$ = - 5
+1
+d. $\lambda \epsilon$ R
+0
+12. The area of the triangle formed by the line 2 x - 3 y + 6 = 0 with the coordinate axes is
+a. 2          
+0
+b. 3
+1
+c. 6
+0
+d. 12
+0
+13. The equation xy - 4x - 3y + 13 = 0 represents
+a. a pair of lines at right angles          
+1
+b. a rectangular hyperbola
+0
+c. a pair of parallel lines
+0
+d. a parabola
+0
+14. If $y = 1 + \dfrac{1}{x} + \dfrac{1}{x^2}$ + ... to $\infty$ and $\mid x \mid$ > 1$, then $$\dfrac{dy}{dx}$
+a. - $\dfrac{1}{(1-x)^2}$          
+1
+b. $\dfrac{1}{(1-x)^2}$
+0
+c. $x - \dfrac{1}{x}$
+0
+d. $\dfrac{y}{x}$
+0
+15. The equation r = p$\cos x$ + q $\sin x$ , r has a solution if
+a. $r = \ max [p, 1]$          
+0
+b. $r \epsilon [- \sqrt{p^2 + q^2}$ , $\sqrt{p^2 + q^2}]$
+1
+c. $r^2 = p^2 + q^2$
+0
+d. $\mid r \mid > \sqrt{p^2 + q^2}$ 
+0
+16. $f : R \to R$ given by $f(x)=  x^2 - 4x + 4$
+a. an odd function          
+0
+b. an even function
+0
+c. one-to-one
+0
+d. many-to-one
+1
+17. The locus of the point which is equidistant form the points $(1, -1, 3)$ and $(1, -1, -5)$ is
+a. x + y + z = 3          
+0
+b. x + y + z = - 1
+0
+c. z = 1
+0
+d. z = -1
+1
+18. $ \int \dfrac{x dx}{x^4 +1}$
+a. $ \tan^{-1} x^2$ + C          
+0
+b. $ \dfrac{1}{2}\tan^{-1} x^2$ + C
+1
+c. $\ln (1+x^4)$ + C
+0
+d. $ \dfrac{1}{2}\ln (1+x^4)$ + C
+0
+19. A function f$(x)$ is continuous at $x_0$, then which one of following may be false.
+a. Right hand limit of function is equal to left hand limit          
+0
+b. The limit value is equal to the functional value at x= $x_0$
+0
+c. The function is differentiable at $x= x_0$
+1
+d. All must be true
+0
+20. The eccentricity of conic section $x^2 -y^2 = 1$ is
+a. 1          
+0
+b. $\sqrt{2}$
+1
+c. 2
+0
+d. $\dfrac{1}{\sqrt{2}}$
+0
+21. The oxidation state of N in given compound NH$_4$NO$_3$ is
+a. -3, + 1          
+0
+b. +1
+0
+c. -3, + 5
+1
+d. -3, + 3
+0
+22. The no. of electrons present in 1 mole of CH$_4$
+a. 1 $N_A$          
+0
+b. 2 $N_A$
+0
+c. 5 $N_A$
+0
+d. 10 $N_A$
+1
+23. The equivalent weight of metal is 25. The vapour density of its chloride in 91. The formula of the metal chloride is
+a. MCl          
+0
+b. MCl$_2$
+0
+c. MCl$_3$
+1
+d. MCl$_4$
+0
+24. The electronic configuration of element ends at an antepenultimate shell is
+a. s-block          
+0
+b. p-block
+0
+c. d-block
+0
+d. f-block
+1
+25. The total no. of orbitals present in each sub-shell is equivalent to the relation
+a. 2n$^2$          
+0
+b. n$^2$
+0
+c. $2(2l + 1)$
+0
+d. 2l + 1
+1
+26. Which compound is not Bronsted-Lowry base?
+a. HNO$_3$          
+0
+b. H$_2$O
+0
+c. NaOH
+1
+d. NH$_4$OH 
+0
+27. The maximum covalent character is found in
+a. HF          
+0
+b. HCl
+0
+c. HBr
+0
+d. HI
+1
+28. Which of the following alkali metals is used in photo electric cell?
+a. Li          
+0
+b. Na
+0
+c. Cs
+1
+d. Fr
+0
+29. Spelter is
+a. impure Cu          
+0
+b. impure Zn
+1
+c. ZnO
+0
+d. CuO
+0
+30. Which of this is an non-ferrous alloy?
+a. steel          
+0
+b. invar
+0
+c. solder
+1
+d. none of this
+0
+31. Kerosene is the mixture of
+a. aromatic compound          
+0
+b. alkanes
+1
+c. aliphatic acids
+0
+d. alcohols
+0
+32. The IUPAC  of t-butyl alcohol is
+a. Butanol-1          
+0
+b. Butanol-2
+0
+c. 2-methyl 1-propanol
+0
+d. 2-methyl 2-prpoanol
+1
+33. The phonemic transcription of the word  'hardly' is ...
+a. /had$\omega$:/          
+1
+b. /hardl$\omega$:/
+0
+c. /h[dl$\omega$/
+0
+d. /hdl$\omega$/
+0
+34. The word - 'hardship' has its primary stress on the ...
+a. 1st          
+1
+b. 2nd
+0
+c. 3rd
+0
+d. all of these
+0
+35. At a lecture:
+a. spectators          
+0
+b. audience
+1
+c. mob
+0
+d. viewers
+0
+36. To send out of one's country:
+a. emigrant          
+0
+b. immigrant
+0
+c. expatriate
+1
+d. pirate
+0
+37. Introduce a person ... someone.
+a. with          
+0
+b. to
+1
+c. from
+0
+d. for
+0
+38. Look ... someone as a friend.
+a. at          
+0
+b. for
+0
+c. into
+0
+d. upon
+1
+39. The number of persons present ... very small.
+a. are          
+0
+b. were
+0
+c. is
+1
+d. none of these
+0
+40. Half of them ... rotten.
+a. are          
+1
+b. is
+0
+c. was
+0
+d. all of these
+0
+41. By leaps and bounds
+a. very rapidly          
+1
+b. a search
+0
+c. to reduce
+0
+d. to affect
+0
+42. All that glitters is not gold. ... ?
+a. is it          
+1
+b. doesn't it
+0
+c. isn't if
+0
+d. does it
+0
+43. These were some people at the Gage, ... ?
+a. weren't they          
+1
+b. didn't they
+0
+c. weren't here
+0
+d. did they
+0
+44. Black as she is, she is a beauty' is a ... sentence.
+a. simple          
+0
+b. compound
+0
+c. complex
+1
+d. mixed
+0
+45.'She would have come if you had invited her, for she was free' is ... sentence.
+a. simple          
+0
+b. compound
+0
+c. complex
+0
+d. mixed
+1
+46. Her father said, 'if you score above 80$\%$, in IOE entrance exam, you ... be given Galaxy Grand-2'.
+a. will          
+0
+b. may
+0
+c. should
+0
+d. shall
+1
+47. In a 2 stroke engine the working cycle is completed in the no. of revolution of the crank shaft equal to ...
+a. 1          
+0
+b. 2
+1
+c. 3
+0
+d. 4
+0
+48. Spark Ignition engine is ....
+a. Petrol engine          
+1
+b. Diesel engine
+0
+c. Steam engine
+0
+d. None
+0
+49. About .... of global final energy consumption comes from renewals.
+a. 0.04          
+0
+b. 0.08
+0
+c. 0.012
+0
+d. 0.016
+1
+50. For cement OPC stands for ...
+a. Ordinary Pozzolana Cement          
+0
+b. Ordinary Portland Cement
+1
+c. Overall Portland Cement
+0
+d. Ordinary Particle Cement
+0
+51. The shape of river bed aggregate is ...
+a. rounded          
+1
+b. irregular
+0
+c. flat
+0
+d. flaky
+0
+52. In brick masonry the frog of the brick is generally kept is ...
+a. top face          
+1
+b. bottom face
+0
+c. exposed face
+0
+d. interior face 
+0
+53. Which of the following sign denotes that pedestrian are prohibited form crossing the road except where they have started to cross the road.
+a. Red Standing Man          
+1
+b. Green Walking Man
+0
+c. Flashing Green Man
+0
+d. none
+0
+54. Two resistance $\rho_1$ and $\rho_2$ give combined resistance of 4.0 ohms when in series and 1 ohm when in parallel. The resistance are
+a. 1.5 and 2.5 ohms          
+0
+b. 2 ohms each
+1
+c. 3 and 1 ohm
+0
+d. 4 ohm and 1 ohm
+0
+55. Energy resources derived from natural organic materials are called ....
+a. geothermal energy sources          
+0
+b. fossil fuels
+0
+c. biomass
+1
+d. all of these
+0
+56. In a transformer, Secondary winding is that
+a. Which has greater no. of winding          
+0
+b. which has less no. of winding than another winding
+0
+c. in which electrical source is applied.
+0
+d. From which electrical power is taken out.
+1
+57. The diesel engines are also known as ... Engine.
+a. compression ignition          
+1
+b. spark ignition
+0
+c. dual ignition
+0
+d. none
+0
+58. Decimal system is also called …
+a. Hindu counting system          
+1
+b. Christian counting system
+0
+c. Arabic counting system
+0
+d. none
+0
+59. The current gain of the common emitter transistor amplifier is ...
+a. zero          
+0
+b. less than 1
+0
+c. 1
+0
+d. more than 1
+1
+60. Printers are ...
+a. input device          
+0
+b. output device
+0
+c. both (a) and (b)
+1
+d. none
+0
